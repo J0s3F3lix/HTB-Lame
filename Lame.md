@@ -10,7 +10,7 @@ IP: 10.10.10.4
 ### Fase 1 Enumeracion 
 
 ```
-nmap -A -o scan_legacy.txt 10.10.10.4
+PS> nmap -A -o scan_legacy.txt 10.10.10.4
 ```
 Esto no traera lo siguiente puerto
 |PORT|STATE| SERVICE|VERSION|
